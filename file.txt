@@ -1,0 +1,6 @@
+"oi",
+"Olá",
+"34",
+"Feijão no prato",
+"56",
+"Molho inglÊs"
